@@ -17,3 +17,5 @@ Supplemental Figure S5 - 607-combined-data-sets.Rmd.
 The file for generating the supplemental table (Supplemental Table S1) is 607.1-haplotyper.Rmd.  
 
 100-wgs-download.Rmd, 100.1-downsample.sh, 101-all-chroms.Rmd, 102-RAD-seq.Rmd document downloading and alignment of data.   
+
+Intermediate and data files are available at 10.5281/zenodo.12176402
